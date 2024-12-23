@@ -1,2 +1,2 @@
 # Painting-Company
-Painting company website I made
+Painting company website for APEX PAINTING
